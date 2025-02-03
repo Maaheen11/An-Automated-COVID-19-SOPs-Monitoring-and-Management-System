@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+If making the product from scratch, first download the Operating system and necessary libraries on a 64GB SD card. 
+Follow the instructions in the given link to download the OS of Nvidia Jetson Nano. 
+https://docs.nvidia.com/jetson/jetpack/install-jetpack/index.html
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Operating the Product 
+i.	Turn on the power supply for the 5V and 12V power adaptor (see table 6.1) and wait for the system to boot up. The desktop should be displayed on the monitor.
+ 
+ii.	After booting up the system, open complete FYP folder on the desktop. There should be 3 .py files and 6 other documents.
+
+iii.	Right click on the folder. A drop-down menu should be opened in which click of Open in Terminal. 
+
+iv.	Repeat step 3 times. 
+
+v.	Three black windows should open (aka terminals). Write python3 a.py in one terminal, python3 q.py in the second terminal, and python3 ard.py in the third terminal. 
+This would activate the cameras and start the process. 
+
+Note: No file should be opened or modified, else the product might not work as the source files are tempered with. 
+
+vi.	When the product is to be turned off, close all the terminals and folders, and click on shut down button from the top right corner.
+After the system is shut down, turn off the power supplies and unplug the adapters. 
+Note: Beyond this point, no human interaction is required since this product is fully automated. 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------

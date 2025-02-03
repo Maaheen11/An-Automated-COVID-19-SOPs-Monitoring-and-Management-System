@@ -1,0 +1,25 @@
+--------------------------------------------------Setting up the Prototype----------------------------------------------------------------------------------
+I.	Setting the Logi Camera 
+Using a screw driver, attach the logi camera at the face level of a person where the queue is going to start. 
+
+II.	Setting the Atech Camera 
+Using a screw driver, attach Atech Camera perpendicular to the start of the queue, where three persons are visible in the camera frame. 
+
+III.	Setting Dual mini-speakers 
+Insert the pin of the speakers inside the port of the VGA to HDMI convertor. Place these speakers near the white body of the product. 
+
+IV.	Setting the Monitor
+Place the monitor near the white body of the product, facing towards the queue, so that the first person could properly see what the results are. 
+
+V.	Setting the Product White Body 
+The white body of the product is to be set at a minimum height of 4 feet from the ground using the stand. 
+This should be placed at the side of the queue and at the starting of the queue.
+
+
+ In order to get everything in working condition, follow the given steps.
+i.	Connect Atech Camera with USB port of Jetson Nano.
+ii.	Connect Logi Camera with USB port of Jetson Nano. 
+iii.	Connect the 5V 3A power adaptor with the USB micro port of Jetson Nano. Plug this adaptor with any outlet.
+iv.	Connect the blue wire with USB port of Jetson Nano. 
+v.	Connect HDMI cable with HDMI port of Jetson Nano. 
+vi.	Plug the 12V power adaptor with any outlet. 
