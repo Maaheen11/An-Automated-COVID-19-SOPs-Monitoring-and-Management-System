@@ -50,6 +50,8 @@ The repository contains the following files and folders:
 ### 7. **Poster**
 - **Contents:** Key features, hardware diagrams, project milestones, and highlights
 
+![GSN 21-18](https://github.com/user-attachments/assets/a54cfee1-7175-4694-aabf-e621d358bee8)
+
 ### 8. **Presentations**
 - **Folders:**
   - `FYP-I`: 7 presentations from the first project phase
@@ -75,9 +77,6 @@ The repository contains the following files and folders:
 1. **Hardware Setup:** Refer to `instructions for prototype set-up.txt`
 2. **Software Installation:** Follow `instructions for running the code files.txt`
 3. **Run the System:** Execute `a.py` and `q.py` for monitoring, and `ard.py` for communication and control
-
-## Poster 
-![GSN 21-18](https://github.com/user-attachments/assets/a54cfee1-7175-4694-aabf-e621d358bee8)
 
 
 ## License
