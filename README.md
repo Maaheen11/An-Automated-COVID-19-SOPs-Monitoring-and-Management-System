@@ -76,6 +76,10 @@ The repository contains the following files and folders:
 2. **Software Installation:** Follow `instructions for running the code files.txt`
 3. **Run the System:** Execute `a.py` and `q.py` for monitoring, and `ard.py` for communication and control
 
+## Poster 
+![GSN 21-18](https://github.com/user-attachments/assets/a54cfee1-7175-4694-aabf-e621d358bee8)
+
+
 ## License
 This project is developed as part of the Final Year Project at the National University of Computer & Emerging Sciences (FAST-NUCES), Lahore, Pakistan.
 
