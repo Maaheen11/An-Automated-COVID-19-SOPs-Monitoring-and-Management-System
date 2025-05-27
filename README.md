@@ -80,10 +80,10 @@ The repository contains the following files and folders:
 
 
 ## License
-This project is developed as part of the Final Year Project at the National University of Computer & Emerging Sciences (FAST-NUCES), Lahore, Pakistan.
+This project is developed as part of the Final Year Project at the National University of Computer & Emerging Sciences (FAST-NUCES).
 
 ## Acknowledgments
-- **Institution:** FAST-NUCES, Lahore, Pakistan
+- **Institution:** National University of Computer & Emerging Sciences (FAST-NUCES)
 - **Team Members:** Maaheen Yasin (Team Lead), Ahmad Tameem, Inbisat Mudassar Dar 
 - **Advisor & Co-Advisor:** Dr. Omer Saleem, Mr. Hamza Yousuf 
 - **Industrial Client:** Saleem Steel Industries 
