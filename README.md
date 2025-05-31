@@ -1,4 +1,4 @@
-# An-Automated-COVID-19-SOPs-Monitoring-and-Management-System
+# An Automated COVID-19 SOPs Monitoring and Management System
 
 ## Overview
 This project focused on developing an intelligent system designed to monitor and manage COVID-19 Standard Operating Procedures (SOPs) in public spaces. It leverages deep learning models, computer vision, and embedded systems to ensure compliance with safety protocols such as face mask detection, social distancing, contactless temperature sensing, and SpO2 monitoring.
